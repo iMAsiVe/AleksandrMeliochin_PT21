@@ -1,0 +1,13 @@
+* 68602fb last commit
+*   a0da1a8 Merge pull request #1 from iMAsiVe/grupes-numeris
+|\  
+| *   e849883 Merge branch 'main' into grupes-numeris
+| |\  
+| |/  
+|/|   
+* | 39462af Irasyta gimimo vieta
+| * af610f9 pridejau grupes numeri
+|/  
+* 637c29b Ignoruojam visus .log
+* 6e9dd73 Pakeistas failas, prideta Pavarde
+* 882d1f2 Sukurtas ir pakeistas failas studentas.txt

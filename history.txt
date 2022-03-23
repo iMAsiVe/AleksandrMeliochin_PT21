@@ -1,0 +1,323 @@
+    1    git config --global user.email "alex.meliochin@gmail.com"\n  git config --global user.name "Xander"
+    2  code .
+    3  git init
+    4  git add .
+    5  git commit - m "init commit"
+    6  git log
+    7  git commint -m "init commit"
+    8  git log
+    9  git commit -m "init commit"
+   10  git log
+   11  code .
+   12  git log
+   13  cd ..
+   14  clone git@github.com:godbiti/sturdy-memory.git
+   15  git clone git@github.com:godbiti/sturdy-memory.git
+   16  git clone git@github.com:godbiti/sturdy-memory.git
+   17  git clone https://github.com/godbiti/sturdy-memory.git
+   18  cd sturdy-memory
+   19  code .
+   20  git log
+   21  git switch -c AM
+   22  git log
+   23  git add .
+   24  git commit -m "AM 1st com"
+   25  git add .
+   26  git commit -m "AM 2st com"
+   27  git push origin AM
+   28  git swtich main
+   29  git switch main
+   30  git pull 
+   31  git pull
+   32  git switch -c AM22
+   33  git add .
+   34  git commit -m "AM pirmas pakeitimas 2 eilute"
+   35  git add ..
+   36  git add .
+   37  git commit -m "AM antra pakeimas su konfliktu"
+   38  git log
+   39  git push origin
+   40  git push origin AM22
+   41  git swtich main
+   42  git swithc main
+   43  git pull
+   44  git pull main
+   45  git pull
+   46  git log
+   47  git switch main
+   48  git pull
+   49  nslookup
+   50  nslookup\nserver 95.213.208.250
+   51  node -w
+   52  node --w
+   53  node w
+   54  node -v
+   55  pwd
+   56  node myScript.js
+   57  /usr/bin/clear; ssh -i '/Users/Xander/.bitnami/stackman/machines/xampp/ssh/id_rsa' -o StrictHostKeyChecking=no 'root@192.168.64.3'
+   58  ls
+   59  cd..
+   60  ls
+   61  touch kazkas
+   62  mkdir test
+   63  cd test
+   64  touch {1..100}.txt
+   65  l
+   66  ls
+   67  ls -a
+   68  rm {1..100}.txt
+   69  touch {a..z}.txt
+   70  rm {a..z}.txt
+   71  ls
+   72  /usr/bin/clear; ssh -i '/Users/Xander/.bitnami/stackman/machines/xampp/ssh/id_rsa' -o StrictHostKeyChecking=no 'root@192.168.64.3'
+   73  pwd
+   74  cd
+   75  ls
+   76  cd desktop
+   77  [wd
+   78  pwd
+   79  touch file.txt
+   80  nano pirmas.sh
+   81  ps --p $$
+   82  ps -p $$
+   83  nano pirmas.sh
+   84  ./pirmas.sh
+   85  chmod +x pirmas.sh
+   86  ./pirmas.sh
+   87  bash pirmas.sh
+   88  nano pirmas.sh
+   89  bash pirmas.sh
+   90  nano pirmas.sh
+   91  bash bash pirmas.sh
+   92  bash pirmas.sh
+   93  nano pirmas.sh
+   94  nano kintamasis.sh
+   95  bash kintamasis.sh
+   96  nano kintamasis.sh
+   97  bash kintamasis.sh
+   98  nano kintamasis.sh
+   99  bash kintamasis.sh
+  100  nano k
+  101  nano kintamasis.sh
+  102  bash kintamasis.sh
+  103  nano kintamasis.sh
+  104  bash kintamasis.sh
+  105  nano kintamasis.sh
+  106  bash kintamasis.sh
+  107  nano k
+  108  nano kintamasis.sh
+  109  nano kintamasis.sh
+  110  bash kintamasis.sh
+  111  git clone https://github.com/ricardas770/pamokos-darbas/invitationscleaer
+  112  git clone https://github.com/ricardas770/pamokos-darbas.git pamoka_with_ricardas
+  113  git pull https://github.com/ricardas770/pamokos-darbas
+  114  pwd
+  115  cd pamoka_with_ricardas
+  116  git pull https://github.com/ricardas770/pamokos-darbas
+  117  git switch changes-ricardas-file
+  118  git switch -c change-ricardas-file
+  119  git add .
+  120  git commit -m "Make cahnges to your README file"
+  121  git push -u origin main
+  122  git push -u origin main
+  123  $ sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+  124  gut remote set url
+  125  git remote set -url git@github.com:ricardas770/pamokos-darbas.git
+  126  git push -u origin main
+  127  git remote set-url origin git@github.com:ricardas770/pamokos-darbas.git
+  128  git push -u origin main
+  129  git remote -v
+  130  git branch
+  131  git push origin change-ricardas-file
+  132  clear
+  133  pwd
+  134  clear
+  135  git clone git@github.com:iMAsiVe/my-first-GIT-rep.git new trying
+  136  git clone git@github.com:iMAsiVe/my-first-GIT-rep.git new_final_rep
+  137  ls -al ~.ssh
+  138  ls -al ~/.ssh
+  139  pbcopy < ~/.ssh/id_ed25519.pub
+  140  sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+  141  refresh
+  142  pwd
+  143  ssh-keygen -t ed25519 -C "alex.meiochin@gmail.com"
+  144  eval "$(ssh-agent -s)"\n> Agent pid 59566
+  145  open ~/.ssh/config
+  146  eval "$(ssh-agent -s)"
+  147  open ~/.ssh/config
+  148  touch ~/.ssh/config
+  149  open ~/.ssh/config
+  150  ssh-add -K ~/.ssh/id_ed25519
+  151  ssh-add ~/.ssh/id_ed25519
+  152  ssh-keygen -t ed25519 -C "alex.meliochin@gmail.com"
+  153  eval "$(ssh-agent -s)"
+  154  open ~/.ssh/config
+  155  ssh-add ~/.ssh/id_ed25519
+  156  pbcopy < ~/.ssh/id_ed25519.pub
+  157  pwd
+  158  ls -a
+  159  git push -u origin main
+  160  git push origin change-ricardas-file 
+  161  git swithc main
+  162  git switch main
+  163  git pull 
+  164  git branch -vv
+  165  git log
+  166  git log --oneline
+  167  git branch
+  168  qaaaaaaaaaaaaaayuijokpl[;jknbhgvcfdxgszщлз\хжъ
+  169  pwd
+  170  git clone https://github.com/iMAsiVe/paruosimasTestui.git pamoka_su_eriku
+  171  git clone git@github.com:iMAsiVe/paruosimasTestui.git pamoka_su-eriku
+  172  pwd
+  173  cd pamoka_su-eriku
+  174  pwd
+  175  git switch -c Aleksandr
+  176  git commit -m "sukuriau nauja faila"
+  177  git add .
+  178  git commint -m "sukuriau nauja faila"
+  179  git status
+  180  git commit -m "Sukuriau nauja faila"
+  181  git add .
+  182  git commit -m "Padariau pakeitimus faile"
+  183  git log online
+  184  git log --online
+  185  git log --oneline
+  186  git push origin Aleksandr
+  187  git swtich main
+  188  git swtitch main
+  189  git switch main
+  190  git pull origin main
+  191  git switch -c animals 
+  192  git .
+  193  git ..
+  194  code .
+  195  code 
+  196  git config --global core.editor "code --wait"
+  197  git config --global -e\n
+  198  q
+  199  code .
+  200  git push animals
+  201  git push origin animals
+  202  git switch main
+  203  git pull main
+  204  git pull origin main
+  205  git log
+  206  git branch -d Aleksandr 
+  207  git branch -d animals
+  208  git log
+  209  git pull origin main
+  210  git switch -c animals2
+  211  git add.
+  212  git add .
+  213  git commit -m "Papildziau maista"
+  214  git push origin animals2
+  215  pwd
+  216  git init
+  217  touch studentas.txt
+  218  git add .
+  219  git commit -m "Sukurtas ir pakeistas failas studentas.txt"
+  220  git add .
+  221  git commit -m "Pakeistas failas, prideta Pavarde"
+  222  git log online
+  223  git log oneline
+  224  git status
+  225  git log
+  226  git log -oneline
+  227  git log --oneline
+  228  touch logas.log
+  229  git rm *.log
+  230  *.log
+  231  .gitignore *.log
+  232  git .gitignore *.log
+  233  git --help
+  234  git rm *.log
+  235  *.log .gitignore
+  236  git status
+  237  touch .gitignore
+  238  git status
+  239  git add .
+  240  git commit -m "Ignoruojam visus .log"
+  241  git status
+  242  clear
+  243  git remote add origin git@github.com:iMAsiVe/AleksandrMeliochin_PT21.git
+  244  git branch -M main
+  245  git push -u origin main
+  246  git switch -c grupes-numeris
+  247  git add .
+  248  got commit -m "pridejau grupes numeri"
+  249  git commit -m "pridejau grupes numeri"
+  250  git pull origin main
+  251  git merge
+  252  git merge main
+  253  git switch main
+  254  git switch grupes-numeris 
+  255  git pull origin main
+  256  git switch master
+  257  git switch main
+  258  git switch grupes-numeris 
+  259  git merge main
+  260  git rebase main
+  261  git switch main
+  262  git pull
+  263  git switch grupes-numeris 
+  264  git merge main
+  265  git rebase main
+  266  git status
+  267  git log --oneline
+  268  code .
+  269  git merge main
+  270  git push origin main
+  271  git log
+  272  git switch main
+  273  git pull
+  274  git branch -D grupes-numeris 
+  275  history>history.txt
+  276  git log --online --graph --all>gitlog.txt
+  277  git log --oneline --graph --all>gitlog.txt
+  278  git log --oneline
+  279  git --amend "last commit"
+  280  git commit -amend "last commit"
+  281  git commit --amend "last commit"
+  282  git commit --amend -m "last commit"
+  283  git log --oneline
+  284  git push origin main
+  285  git log
+  286  git revert 68602fb6
+  287  git log --online
+  288  git log --oneline
+  289  git reset --hard origin
+  290  git log --oneline
+  291  git reset --hard 68602fb
+  292  git log --oneline
+  293  git reset -soft HEAD~1
+  294  git reset --soft HEAD~1
+  295  git log --oneline
+  296  git status
+  297  git commit -m "paskutinis commitas"
+  298  history>history.txt
+  299  git log --oneline --graph --all > gitlog.txt
+  300  git reset --hard a0da1a8
+  301  git load 
+  302  git log --oneline
+  303  git status
+  304  git log --oneline
+  305  git add .
+  306  git commit -m "paskutinis commitas"
+  307  git log --online
+  308  git log --oneline
+  309  history>history.txt
+  310  git log --oneline --graph --all > gitlog.txt
+  311  git log
+  312  git add .
+  313  git --amend commit -m "last commit"
+  314  git commit --amend -m "last commit"
+  315  git push
+  316  git log --oneline
+  317  git status
+  318  git pull
+  319  git reflog
+  320  git reset --hard 68602fb
+  321  git log --oneline
+  322  git status
+  323  histry>history.txt
